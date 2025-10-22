@@ -20,7 +20,7 @@ The goal of this project is to automatically recognize **10 types of sounds** fr
 ---
 
 ## 📂 Project Structure
-
+```text
 UrbanSound-Classification/
 ├── notebook/
 │   └── urbansound_classification.ipynb
@@ -35,7 +35,7 @@ UrbanSound-Classification/
 │   └── UrbanSound8K.csv
 ├── requirements.txt
 └── README.md
-
+```
 
 ---
 
