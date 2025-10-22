@@ -20,15 +20,21 @@ The goal of this project is to automatically recognize **10 types of sounds** fr
 ---
 
 ## 📂 Project Structure
-notebook/
-├── urbansound_classification.ipynb ← main code
-models/
-├── urbansound8k_keras_cnn.h5 ← trained model
-results/
-├── confusion_matrix.png
-├── training_curves.png
-├── roc_curves.png
-└── precision_recall_curves.png 
+```text
+UrbanSound-Classification/
+├── notebook/
+│   └── urbansound_classification.ipynb
+├── models/
+│   └── urbansound8k_keras_cnn.h5
+├── results/
+│   ├── confusion_matrix.png
+│   ├── training_curves.png
+│   ├── roc_curves.png
+│   └── precision_recall_curves.png
+├── Dataset/
+│   └── UrbanSound8K.csv
+├── requirements.txt
+└── README.md
 
 
 ---
